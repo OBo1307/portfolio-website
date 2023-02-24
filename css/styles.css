@@ -170,6 +170,11 @@ div.borderYtoX a:hover:before, div.borderYtoX a:hover:after
 
   }
 
+  .logo {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+  }
   .page-header__item {
     flex: 0 1 200px;
   }
