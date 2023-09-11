@@ -204,6 +204,11 @@ div.borderYtoX a:hover:before, div.borderYtoX a:hover:after
     background-color: var(--background-grid);
   }
 
+  .grid__item__img {
+    width: 100%;
+    height: auto;
+  }
+
   .about-content {
     max-width: 700px;
     margin: 0 auto;
